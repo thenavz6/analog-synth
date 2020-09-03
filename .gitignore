@@ -1,3 +1,9 @@
+# Build folder
+Builds/
+
+# Projucer file
+*.jucer
+
 # Prerequisites
 *.d
 
